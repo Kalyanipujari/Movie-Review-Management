@@ -50,13 +50,14 @@ A full-stack web application developed as part of the **CDAC Web-based Java Prog
 
 ### ⚙️ Backend Setup
 ```bash
-cd backend
+cd moviereview
 # Configure MySQL credentials in application.properties
 mvn spring-boot:run
 ```
 ### ⚙️ Frontend Setup
 ```
-cd frontend
+cd project_1
+cd project
 npm install
 npm run dev
 ```
@@ -75,8 +76,7 @@ This project is for educational purposes as part of CDAC. You are free to fork, 
 Let me know if you'd like:
 - To include API endpoints documentation.
 - Swagger UI instructions.
-- Docker support section (if applicable).
-- A separate `.env.example` file setup.
+- Updations in the project.
 
 I can generate those too.
 
