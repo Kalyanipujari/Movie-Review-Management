@@ -53,3 +53,30 @@ A full-stack web application developed as part of the **CDAC Web-based Java Prog
 cd backend
 # Configure MySQL credentials in application.properties
 mvn spring-boot:run
+```
+### ⚙️ Frontend Setup
+```
+cd frontend
+npm install
+npm run dev
+```
+---
+👨‍💻 Contributors
+- Kalyani Pujari
+- Mukta Wagh
+- Shankar Parab
+---
+
+📜 License
+This project is for educational purposes as part of CDAC. You are free to fork, learn, and modify as needed.
+
+---
+
+Let me know if you'd like:
+- To include API endpoints documentation.
+- Swagger UI instructions.
+- Docker support section (if applicable).
+- A separate `.env.example` file setup.
+
+I can generate those too.
+
